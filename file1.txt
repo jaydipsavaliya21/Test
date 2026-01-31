@@ -1,0 +1,2 @@
+GitHub is a platform for hosting and managing code using Git.
+It helps developers collaborate, track changes, and share projects online.
